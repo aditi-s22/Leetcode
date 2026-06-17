@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/aditi-s22/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/aditi-s22/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditi-s22/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditi-s22/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditi-s22/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditi-s22/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi-s22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditi-s22/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aditi-s22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aditi-s22/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
