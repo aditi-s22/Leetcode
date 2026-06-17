@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aditi-s22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditi-s22/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aditi-s22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditi-s22/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditi-s22/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aditi-s22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
