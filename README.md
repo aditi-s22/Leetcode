@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditi-s22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0454-4sum-ii](https://github.com/aditi-s22/Leetcode/tree/master/0454-4sum-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditi-s22/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditi-s22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi-s22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0454-4sum-ii](https://github.com/aditi-s22/Leetcode/tree/master/0454-4sum-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
