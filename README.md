@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditi-s22/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## String
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/aditi-s22/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
+## Simulation
+|  |
+| ------- |
+| [3614-process-string-with-special-operations-ii](https://github.com/aditi-s22/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 <!---LeetCode Topics End-->
