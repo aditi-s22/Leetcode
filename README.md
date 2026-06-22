@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aditi-s22/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/aditi-s22/Leetcode/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi-s22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/aditi-s22/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3614-process-string-with-special-operations-ii](https://github.com/aditi-s22/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditi-s22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi-s22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0454-4sum-ii](https://github.com/aditi-s22/Leetcode/tree/master/0454-4sum-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/aditi-s22/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/aditi-s22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/aditi-s22/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
 |  |
 | ------- |
