@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aditi-s22/Leetcode/tree/master/0179-largest-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditi-s22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/aditi-s22/Leetcode/tree/master/0454-4sum-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditi-s22/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditi-s22/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/aditi-s22/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aditi-s22/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditi-s22/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditi-s22/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditi-s22/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditi-s22/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/aditi-s22/Leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/aditi-s22/Leetcode/tree/master/0179-largest-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditi-s22/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditi-s22/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/aditi-s22/Leetcode/tree/master/0179-largest-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aditi-s22/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/aditi-s22/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/aditi-s22/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/aditi-s22/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
